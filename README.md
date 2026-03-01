@@ -21,16 +21,7 @@ npx skills add dcjohnston/async-vibes
 
 Or manually copy `SKILL.md` into your project's `.claude/skills/`, `.cursor/skills/`, or equivalent agent skills directory.
 
-## Supported Agents
-
-Any agent that reads SKILL.md files, including:
-
-- Claude Code
-- Cursor
-- GitHub Copilot
-- Cline
-- Windsurf
-- And [40+ others](https://skills.sh)
+You can also paste the contents of `SKILL.md` directly into your `CLAUDE.md` or project instructions if you want to skip the skills system entirely.
 
 ## When to Use
 
